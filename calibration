@@ -1,0 +1,9 @@
+Parameter,Python Constant,Value,Description
+Focal Length X,FOCAL_LENGTH_X,517.3,Focal length along the X-axis (in pixels).
+Focal Length Y,FOCAL_LENGTH_Y,516.5,Focal length along the Y-axis (in pixels).
+Principal Point X,PRINCIPAL_POINT_X,318.6,X-coordinate of the image center (optical center).
+Principal Point Y,PRINCIPAL_POINT_Y,255.3,Y-coordinate of the image center (optical center).
+Image Width,WIDTH,640,Image resolution width (in pixels).
+Image Height,HEIGHT,480,Image resolution height (in pixels).
+
+calibration data from TUM RGB-D (Technische Universität München) https://service.tib.eu/ldmservice/dataset/tum-rgb-d
