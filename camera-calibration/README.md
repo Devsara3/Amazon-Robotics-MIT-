@@ -7,14 +7,14 @@ The goal is to estimate the camera's intrinsic parameters and lens distortion co
 
 ## Project Structure
 
-- code : calibration script  
+- code : calibration script, rectification script, creating disparity maps   
 - results : calibration parameters (intrinsic matrix, distortion coefficients)
 
 ---
 
 ## Results
 
-- Mean reprojection error: **0.032 px**
+- Mean reprojection error: **0.0424 px**
 - Saved files:
   - `intrinsic.npy`
   - `distortion.npy`
