@@ -7,7 +7,7 @@ The goal is to estimate the camera's intrinsic parameters and lens distortion co
 
 ## Project Structure
 
-- code : calibration script, rectification script, creating disparity maps   
+- code : Streo_vision.ipynb file has calibration script, rectification script, creating disparity maps   
 - results : calibration parameters (intrinsic matrix, distortion coefficients)
 
 ---
