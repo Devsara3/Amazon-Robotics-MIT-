@@ -1,0 +1,14 @@
+{
+    "blockSize": 0,
+    "numDisparities": 0,
+    "uniquenessRatio": 0,
+    "speckleWindow": 107,
+    "speckleRange": 41,
+    "disp12MaxDiff": 32,
+    "preFilterCap": 0,
+    "postFilter": 0,
+    "medianFilter": 5,
+    "timestamp": "2025-12-12 16:20:59",
+    "left_image": "left.jpg",
+    "right_image": "right.jpg"
+}

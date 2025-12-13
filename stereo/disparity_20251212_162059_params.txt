@@ -1,0 +1,23 @@
+============================================================
+PARÂMETROS DE DISPARIDADE
+============================================================
+
+Data/Hora: 2025-12-12 16:20:59
+Imagem Left: left.jpg
+Imagem Right: right.jpg
+
+PARÂMETROS SGBM:
+------------------------------------------------------------
+  blockSize:        0
+  numDisparities:   0 (x16 = 0)
+  uniquenessRatio:  0
+  speckleWindow:    107
+  speckleRange:     41
+  disp12MaxDiff:    32
+  preFilterCap:     0
+
+PÓS-PROCESSAMENTO:
+------------------------------------------------------------
+  postFilter:       0 (None)
+  medianFilter:     5
+============================================================
